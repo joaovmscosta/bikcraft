@@ -1,0 +1,14 @@
+.texto-grande {
+  font-family: "Poppins";
+  font-size: 4rem;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.125;
+}
+
+.texto-medio {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
